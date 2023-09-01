@@ -4,7 +4,7 @@
 
 🔭 Atualmente faço parte do time da [@CubosAcademy](https://cubos.academy/) como desenvolvedor back-end  
 
-💬 Para entrar em contato comigo deixo minhas redes sociais logo abaixo!
+💬 Entre em contato comigo pelo email: gabriell.passos7@gmail.com ou Discord (:boy:**user: gabrielpnz**) ou através das minhas redes sociais abaixo!
 
 ---
 
@@ -12,14 +12,11 @@
 
 <p align="left">
   
-  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+  <a href="https://www.instagram.com/_gabriellferreira/" alt="Gmail">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
   
   <a href="https://www.linkedin.com/in/gabriel-passos-ferreira/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-   <a href="https://discord.com/channels/702516391584202802/806658974077288509" alt="Discord">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)&logo=discord&logoColor=white)&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>
 
 ---
